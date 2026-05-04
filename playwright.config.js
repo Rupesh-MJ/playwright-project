@@ -31,9 +31,9 @@ export default defineConfig({
     /* Base URL to use in actions like `await page.goto('')`. */
     // baseURL: 'http://localhost:3000',
 
-    headless : false, 
-    screenshot:'on',
-    video:'on',
+    // headless : false, 
+    // screenshot:'on',
+    // video:'on',
     viewport:{width:720,height:480},
     //baseURL: 'qa or stg url',
 
