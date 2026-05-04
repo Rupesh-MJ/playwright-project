@@ -1,6 +1,6 @@
 import {test,expect} from "@playwright/test"
 
-test("new hsndeling dioge", async ({page}) =>{
+test("new handling dialog", async ({page}) =>{
 
 
     await page.goto("https://testautomationpractice.blogspot.com/p/playwrightpractice.html")
